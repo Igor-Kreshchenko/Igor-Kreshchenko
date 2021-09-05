@@ -1,12 +1,14 @@
+<div style="text-align: center">
+
 ### Hi there! My name is Igor 😎
 
 ---
 
-<p align="center">
 I'm an enthusiastic and detail-oriented frontend developer who is comfortable working with React, JavaScript, Html, CSS to deliver exceptional customer experiences.
-</p>
 
 [![Igor-Kreshchenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Kreshchenko&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/Igor-Kreshchenko/github-readme-stats)
+
+</div>
 
 - fast learner
 - responsible
@@ -14,6 +16,8 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 - appreciate a good joke
 
 ![](https://komarev.com/ghpvc/?username=Igor-Kreshchenko)
+
+<div style="text-align: center">
 
 ### Skills and tools:
 
@@ -49,3 +53,5 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 <a href="https://www.facebook.com/igor.kreshchenko">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img>
 </a>
+
+</div>
