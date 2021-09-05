@@ -1,8 +1,8 @@
-<center>
+<div style="text-align: center">
 
 ### Hi there! My name is Igor 😎
 
-</center>
+</div>
 
 ---
 
@@ -15,7 +15,7 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 - always ready for challenging tasks
 - appreciate a good joke
 
-<center>
+<div style="text-align: center">
 
 ### Skills and tools:
 
@@ -46,4 +46,4 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 
-</center>
+</div>
