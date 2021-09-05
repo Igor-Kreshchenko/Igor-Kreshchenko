@@ -35,7 +35,25 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 
 ### You can contact me:
 
-![Igor.kreshchenko@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![https://www.linkedin.com/in/igorkreshchenko/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&https://www.linkedin.com/in/igorkreshchenko/)
-![https://t.me/IgorKreshchenko](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![https://www.facebook.com/igor.kreshchenko](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+<div style="display: flex">
+<a href="mailto:Igor.kreshchenko@gmail.com" style="margin-right: 5px">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</a>
+<a href="https://www.linkedin.com/in/igorkreshchenko/" style="margin-right: 5px">
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>
+<a href="https://t.me/IgorKreshchenko" style="margin-right: 5px">
+
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+</a>
+<a href="https://www.facebook.com/igor.kreshchenko">
+
+![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+
+</a>
+</div>
