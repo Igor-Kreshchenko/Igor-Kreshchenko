@@ -31,8 +31,6 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Igor-Kreshchenko&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Igor-Kreshchenko/github-readme-stats)
 
-![](https://www.codewars.com/users/Igor-Kreshchenko/badges/small)
-
 ### You can contact me:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
