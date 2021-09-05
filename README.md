@@ -11,6 +11,8 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 - always ready for challenging tasks
 - appreciate a good joke
 
+![](https://komarev.com/ghpvc/?username=Igor-Kreshchenko)
+
 ### Skills and tools:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
