@@ -1,5 +1,3 @@
-<style>body {text-align: center}</style>
-
 ### Hi there! My name is Igor 😎
 
 ---
