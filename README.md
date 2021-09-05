@@ -1,5 +1,7 @@
 ### Hi there! My name is Igor 😎
 
+> Talk is cheap, show me the code
+
 ---
 
 I'm an enthusiastic and detail-oriented frontend developer who is comfortable working with React, JavaScript, Html, CSS to deliver exceptional customer experiences.
