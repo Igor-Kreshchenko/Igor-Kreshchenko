@@ -1,5 +1,3 @@
-<div style="text-align: center">
-
 ### Hi there! My name is Igor 😎
 
 ---
@@ -8,16 +6,12 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 
 [![Igor-Kreshchenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Kreshchenko&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/Igor-Kreshchenko/github-readme-stats)
 
-</div>
-
 - fast learner
 - responsible
 - always ready for challenging tasks
 - appreciate a good joke
 
 ![](https://komarev.com/ghpvc/?username=Igor-Kreshchenko)
-
-<div style="text-align: center">
 
 ### Skills and tools:
 
@@ -41,17 +35,15 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 
 ### You can contact me:
 
-<a href="mailto:Igor.kreshchenko@gmail.com" >
+<a href="mailto:Igor.kreshchenko@gmail.com" rel="noopener noreferrer" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </a>
-<a href="https://www.linkedin.com/in/igorkreshchenko/" >
+<a href="https://www.linkedin.com/in/igorkreshchenko/" rel="noopener noreferrer" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
-<a href="https://t.me/IgorKreshchenko" >
+<a href="https://t.me/IgorKreshchenko" rel="noopener noreferrer" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img>
 </a>
-<a href="https://www.facebook.com/igor.kreshchenko">
+<a href="https://www.facebook.com/igor.kreshchenko" rel="noopener noreferrer" target="_blank">
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></img>
 </a>
-
-</div>
