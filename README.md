@@ -4,7 +4,7 @@
 
 I'm an enthusiastic and detail-oriented frontend developer who is comfortable working with React, JavaScript, Html, CSS to deliver exceptional customer experiences.
 
-[![Igor-Kreshchenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Kreshchenko&show_icons=true&theme=tokyonight)](https://github.com/Igor-Kreshchenko/github-readme-stats)
+[![Igor-Kreshchenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Kreshchenko&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/Igor-Kreshchenko/github-readme-stats)
 
 - fast learner
 - responsible
