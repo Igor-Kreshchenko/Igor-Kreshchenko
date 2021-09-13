@@ -8,12 +8,12 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 
 [![Igor-Kreshchenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Kreshchenko&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/Igor-Kreshchenko/github-readme-stats)
 
-- fast learner
-- responsible
-- always ready for challenging tasks
-- appreciate a good joke
+My creed:
 
-![](https://komarev.com/ghpvc/?username=Igor-Kreshchenko)
+- learn something new every day
+- be passionate about your work
+- always prepare yourself for challenging tasks
+- appreciate a good joke
 
 ### Skills and tools:
 
