@@ -8,7 +8,7 @@ I'm an enthusiastic and detail-oriented frontend developer who is comfortable wo
 
 [![Igor-Kreshchenko GitHub stats](https://github-readme-stats.vercel.app/api?username=Igor-Kreshchenko&show_icons=true&hide=issues&theme=tokyonight)](https://github.com/Igor-Kreshchenko/github-readme-stats)
 
-My creed:
+### My creed:
 
 - learn something new every day
 - be passionate about your work
